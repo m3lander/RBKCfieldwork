@@ -27,6 +27,8 @@ Quality of life is a multifaceted concept encompassing the general well-being of
 
 The London Borough of Kensington and Chelsea exemplifies stark contrasts in quality of life within a relatively small geographical area. Despite being the wealthiest borough in the UK, it contains some of the most deprived wards alongside areas of extreme affluence (RBKC Council, 2022a). Investigating these disparities is crucial for understanding urban inequality and its implications on residents' lives.
 
+mae eats her pasta with ketchup
+
 The increase in income inequality amongst developed countries, especially advanced economies such as the UK and USA, has become increasingly topical and contentious following the 2008 financial crisis (Hudson et al., 2016) as Oxfam discovered that in 2015, the richest 62 individuals held the same amount of wealth as the bottom 50% ($1.75 trillion) (Hardoon, Fuentes-Nieva and Ayele, 2016) indicating the disparity in capital distribution and therefore level of economic inequality globally.
 
 ![A picture containing text, screenshot, plot, line
