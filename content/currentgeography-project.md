@@ -5,30 +5,36 @@ draft: false
 slug: to-what-extent-does-quality-of-life-vary-between-deprived-and-affluent-wards-within-the-london-borough-of-kensington-and-chelsea
 ---
 
+# 
+
+# 
+
 # To what extent does quality of life vary between deprived and affluent wards within the London Borough of Kensington and Chelsea?
 
 
-[To what extent does quality of life vary between deprived and affluent wards within the London Borough of Kensington and Chelsea? 1](#towhatextentdoesqualityoflifevarybetweendeprivedandaffluentwardswithinthelondonboroughofkensingtonandchelsea1)
-[Introduction ? AIMS, LINKS TO SPEC, HYPOTHESIS > NO SPIEL 2](#introductionaimslinkstospechypothesisnospiel2)
-[Aims of Study 5](#aimsofstudy5)
-[Hypotheses 5](#hypotheses5)
-[Link To Specification 6](#linktospecification6)
-[Theoretical Context ++What is already known? Contested thinking? Possible or existing gaps in current knowledge, 6](#theoreticalcontextwhatisalreadyknowncontestedthinkingpossibleorexistinggapsincurrentknowledge6)
-[Geographical Location Justification 12](#geographicallocationjustification12)
-[Methodology 20](#methodology20)
-[Data presentation & analysis 27](#datapresentationanalysis27)
-[Economic - Brompton and Hans Town has a higher level of economic prosperity than Golborne. Multiple home ownership 27](#economicbromptonandhanstownhasahigherlevelofeconomicprosperitythangolbornemultiplehomeownership27)
-[Environmental - Brompton and Hans Town has a higher level of economic prosperity than Golborne. 31](#environmentalbromptonandhanstownhasahigherlevelofeconomicprosperitythangolborne31)
-[Friends of The Earth: Access to Green Space Map: 32](#friendsoftheearthaccesstogreenspacemap32)
-[Social - The level of social deprivation is higher in Golborne than in Brompton and Hans Town. 34](#socialthelevelofsocialdeprivationishigheringolbornethaninbromptonandhanstown34)
-[Crime Prevention Indicators and Crime Occurrence Indicators 34](#crimepreventionindicatorsandcrimeoccurrenceindicators34)
-[Crime Survey Analysis 34](#crimesurveyanalysis34)
-[Occurrence of Crime Data ? Metropolitan Police  37](#occurrenceofcrimedatametropolitanpolice37)
-[NCIL: 39](#ncil39)
-[IMD: 40](#imd40)
-[>> Conclusion 41](#conclusion41)
+[To what extent does quality of life vary between deprived and affluent wards within the London Borough of Kensington and Chelsea?	1](#towhatextentdoesqualityoflifevarybetweendeprivedandaffluentwardswithinthelondonboroughofkensingtonandchelsea1)
+[Introduction ? AIMS, LINKS TO SPEC, HYPOTHESIS > NO SPIEL	1](#introductionaimslinkstospechypothesisnospiel1)
+[Aims of Study	3](#aimsofstudy3)
+[Hypotheses	4](#hypotheses4)
+[Link To Specification	4](#linktospecification4)
+[Theoretical Context++What is already known? Contested thinking? Possible or existing gaps in current knowledge,	5](#theoreticalcontextwhatisalreadyknowncontestedthinkingpossibleorexistinggapsincurrentknowledge5)
+	[Coleman Report Modern >>	5](#colemanreportmodern5)
+[Geographical Location Justification	9](#geographicallocationjustification9)
+[Data presentation & analysis	26](#datapresentationanalysis26)
+	[Economic - Brompton and Hans Town has a higher level of economic prosperity than Golborne.Multiple home ownership	26](#economicbromptonandhanstownhasahigherlevelofeconomicprosperitythangolbornemultiplehomeownership26)
+[Environmental - Brompton and Hans Town has a higher level of economic prosperity than Golborne.	30](#environmentalbromptonandhanstownhasahigherlevelofeconomicprosperitythangolborne30)
+	[Friends of The Earth: Access to Green Space Map:	50](#friendsoftheearthaccesstogreenspacemap50)
+[Social - The level of social deprivation is higher in Golborne than in Brompton and Hans Town.	52](#socialthelevelofsocialdeprivationishigheringolbornethaninbromptonandhanstown52)
+	[Crime Prevention Indicators and Crime Occurrence Indicators	52](#crimepreventionindicatorsandcrimeoccurrenceindicators52)
+	[Crime Survey Analysis	53](#crimesurveyanalysis53)
+	[Occurrence of Crime Data ? Metropolitan PoliceA screenshot of a mapDescription automatically generated-{{git_url&gt;https://github.com/m3lander/RBKCfieldwork/blob/master/images/VAI-screenshot-map-description-automatically.png}}	55](#occurrenceofcrimedatametropolitanpoliceascreenshotofamapdescriptionautomaticallygeneratedgiturlgthttpsgithubcomm3landerrbkcfieldworkblobmasterimagesvaiscreenshotmapdescriptionautomaticallypng55)
+	[IMD:	57](#imd57)
+	[Education:	58](#education58)
+[>> Conclusion	60](#conclusion60)
+[Reference list:	68](#referencelist68)
+[>> 1 To what extent does Brompton and Hans Town have a higher level of economic prosperity than Golborne.	69](#1towhatextentdoesbromptonandhanstownhaveahigherlevelofeconomicprosperitythangolborne69)
 
-# Introduction ? AIMS, LINKS TO SPEC, HYPOTHESIS > NO SPIEL
+# 1 Introduction
 
 Quality of life is a multifaceted concept encompassing the general well-being of individuals and societies, including not just wealth and employment but also the built environment, physical and mental health, education, and access to services (Smith, 2020). Inequality refers to the disparities among people in their command over social, economic, and environmental resources (Jones, 2019). These disparities can manifest economically, socially, and environmentally, leading to significant variations in quality of life within urban areas.
 
@@ -63,7 +69,7 @@ Description automatically generated-{{aws_url>https://d3gf5wsgt7m4.cloudfront.ne
 
 *Figure 3 bar chart showing income deprivation in Kensington and Chelsea (**ONS**)*
 
-## Aims of Study
+## 1.1 Aims of Study
 
  This study aims to investigate the extent to which quality of life varies within the London Borough of Kensington and Chelsea, the most socioeconomically divided borough in England.  \
 In comparing the Golborne ward and the Brompton and Hans Town ward, I will specifically assess and evaluate discrepancies in three key facets of quality of life; social deprivation, economic welfare and environmental degradation. This will allow for a comprehensive understanding of intra-urban inequality. \
@@ -72,14 +78,20 @@ In comparing the Golborne ward and the Brompton and Hans Town ward, I will speci
 
 To guide this investigation, three main hypotheses have been formulated:
 
-## Hypotheses
+## 1.2 Hypotheses
 
-**1. Brompton and Hans Town has a higher level of economic prosperity than Golborne.**
+### 1.2a economic inequality
 
-**2****. Golborne has a higher level of environmental degradation than Brompton and Hans Town. \
+**Brompton and Hans Town has a higher level of economic prosperity than Golborne.**
+
+### 1.2b environmental inequality
+
+**Golborne has a higher level of environmental degradation than Brompton and Hans Town. \
 **        - This is based on theories of environmental justice, which suggest deprived areas often experience poorer environmental conditions (Walker, 2018).
 
-**3. The level of social deprivation is higher in Golborne than in Brompton and Hans Town.**
+### 1.2c social inequality
+
+**The level of social deprivation is higher in Golborne than in Brompton and Hans Town.**
 
 - Supported by Bourdieu's theory of social capital, indicating that access to resources differs between social classes (Bourdieu, 1986).
 
@@ -88,7 +100,7 @@ These hypotheses will be tested through a combination of primary and secondary d
 
 Secondary data will be sourced from government statistics, local council reports, and academic literature. The study will employ both qualitative and quantitative approaches to ensure a comprehensive analysis of the inequality present in these two wards.
 
-## Link To Specification
+## 1.3 Link To Specification
 
 **3.2.3.3 Urban**
 
@@ -106,11 +118,7 @@ Secondary data will be sourced from government statistics, local council reports
 
 - How unequal flows of people, money, ideas and technology within global systems can sometimes act to promote stability, growth and development but can also cause inequalities, conflicts and injustices for people and places
 
-*RED GOES AFTER > Define QoL? some from red but maintain focus on QoL for intro, various aspects, inequality within, experience of ; MY investigation focuses on;*
-
-## Theoretical Context \
-*++What is already known? Contested thinking? Possible or existing gaps in current knowledge,* \
-
+## 1.4 geographical background
 
 **Economic Prosperity** \
 The concept of economic inequality is central to this investigation and will be assessed through indicators such as income distribution, housing affordability, and employment rates. Thomas Piketty?s (2014) theory of wealth concentration highlights how economic inequality increases when the rate of return on capital exceeds the rate of economic growth, leading to a growing divide between the affluent and deprived. In urban areas like Kensington and Chelsea, this disparity is evident in the extreme differences in property values and income levels. While the affluent ward is expected to benefit from high disposable income, high employment rates, and access to economic opportunities, Golborne is likely to experience significantly higher levels of unemployment, lower income, and greater housing stress. The Gini Coefficient and the Index of Multiple Deprivation will be utilised to quantify income inequality and provide a statistical measure of economic disparity (Gini,1921).
@@ -118,8 +126,6 @@ The concept of economic inequality is central to this investigation and will be 
 **Social Deprivation**
 
 Social deprivation in this investigation will be explored through differences in education, health outcomes, and crime rates between the two wards. Pierre Bourdieu?s theory of social capital (1986) provides a useful framework for understanding how access to resources such as education and social networks contributes to the persistence of inequality. In affluent areas, access to elite private schools and better healthcare facilities is much higher, contributing to better social outcomes. This contrasts with deprived wards, where schools are often underfunded, and healthcare facilities are less accessible. The Coleman Report (1966), a landmark study on educational inequality, will provide additional context for understanding how socio-economic background influences educational attainment. This report highlights that socio-economic factors, rather than school resources, determine educational outcomes, which will be particularly relevant when comparing the educational facilities and opportunities in Golborne and Brompton & Hans Town.
-
-### Coleman Report Modern >>
 
 **Environmental Degradation**
 
@@ -139,7 +145,9 @@ Furthermore, urban theories of inequality, such as those developed by David Harv
 Urban inequality is far from unique to London, with other UK cities luke Blackpool also exhibiting significant disparities within a single urban area.  To understand the extent to which high crime rates, poor housing and environmental conditions **contribute to disparities in Quality of Life between residents of different socioeconomic backgrounds, I?ll ?** whether Blackpool provides an example of such **geospatial inequality**** which I hypothesise to also be the case within the London borough of Kensington and Chelsea Despite its reputation as a popular seaside resort, Blackpool faces significant challenges related to deprivation and inequality. According to the 2019 English Indices of Deprivation, Blackpool is the most deprived local authority in England (Ministry of Housing, Communities & Local Government, 2019). Life expectancy varies by up to 13 years between its most and least deprived areas (Blackpool Council, 2021), highlighting stark health inequalities. This overall ranking masks even more extreme variations at a smaller scale, with some neighbourhoods in Blackpool experiencing levels of deprivation that are among the highest in the country, while other areas remain relatively affluent.
 
 Educational attainment also reflects a clear disparity, with students from disadvantaged backgrounds significantly underperforming compared to their peers from more affluent areas (Department for Education, 2020).  From an economical view, while some parts of Blackpool benefit from the tourism industry, others suffer from high unemployment rates and low-wage seasonal work. These economic disparities are reflected in the housing market, with some areas characterised by poor quality, overcrowded housing, while others feature well-maintained properties and higher property values. This example underscores how profound disparities in quality of life can exist within a relatively small geographical area, a pattern which I will seek to investigate within the borough of Kensington and Chelsea and seek to understand the similarities and differences between factors driving disparities in quality of life. \
-Literature Review 
+
+
+Literature Review
 
 | Source | Age, Relevance, and Change Over Time | Evaluation of Bias | Comment: Useful/Not Useful, Rating |
 |---|---|---|---|
@@ -751,3 +759,193 @@ This extreme polarization in child poverty rates between two adjacent wards exem
 ![](/images/azF_Image_73.jpeg)
 
 EQI HEATMAP
+
+**Socio-political considerations:**
+
+Throughout the investigation, I tried to prioritise ethical considerations during data collection across both wards that I studied. Photography was conducted with careful attention to privacy and being as non-invasive as possible, ensuring all images captured did not include any individuals and focusing solely on the necessary environmental and structural elements. Moreover, data collection was carried out efficiently and respectfully, minimising time spent in residential areas and strictly adhering to public access zones to avoid any intrusion into private property. Additionally, my investigation employed digital data recording methods using a smartphone and laptop, not only promoting environmental sustainability by eliminating paper waste but also reduced the overall environmental impact of my research process. On top of this, I aimed to maintain academic integrity through comprehensive documentation of all information sources, with proper citations and references included for all secondary data. This systematic approach to ethical considerations ensured the investigation was conducted responsibly and respected the inhabitants of both wards I investigated.
+
+Evaluation of methods:
+
+| Method title | Why valid method | Drawbacks | How reliable results and conclusion | Any changes? potential modifications to increase validity |
+|---|---|---|---|---|
+| Annotated photos | This is a valid method as by using this qualitative method, the data is visually engaging and simple, with my annotations ensuring that key indicators of inequality are highlighted and clear. | A limitation is daily external
+environmental factors, which could
+alter perceptions of these areas. Because the photos were taken on a day with variable weather conditions, as such, the photos that were taken when it was darker and wetter could negatively impact someone?s impression of the area, resulting in an unfair presentation of that area.
+
+Furthermore, the autumn season in
+which I took the photos could also
+contribute to this, i.e. a more
+negative perception
+due to leaf litter and puddles.
+Moreover, another limitation is my
+sample size, as by
+using systematic sampling, I could
+have missed relevant features. | The reliability of this is illustrated by how I took the photos and thus had control of ensuring and selecting that the pictures were useful and relevant to my specific investigation. It also means that the photos were taken recently and were thus not out of date and unreliable, increasing the validity of my subsequent analysis and conclusions.  | I could have tried to capture the photos at times of similar weather conditions so as to reduce any bias via external factors.
+ |
+| Index of decay survey | Assessing and examining the extent of decay and damage of the properties/overall areas was a valid way to explore inequality. 
+Additionally, my method of scoring the extent of decay and calculating total decay scores for comparison ensured I explored a multitude of indicators. | One drawback of this method is how the scoring and results were subjective and dependent on what I can spot, as well as the way it treats each indicator as equal
+(i.e. ?peeling paint? scoring the same as ?boarded up windows?). Moreover,
+external conditions like light levels and
+weather could impact and exacerbate
+the visibility of certain indicators, for
+example how misty it 
+thus limiting the validity and objectivity of the results. | Although the reliability is slightly undermined by the subjective nature of this survey, the results are nevertheless still reasonably reliable. This is due to how I conducted the survey in both wards on the same day straight after each other, thus minimising the risk of external influences such as time of day (school run and commuting in the morning/evening) impacting my results in one of the areas.  | To try to increase the validity, next time I could enlist numerous people to record results in order to get more comprehensive and thus valid results.  |
+| EQI |  The validity of this method is highlighted by how I selected indicators that were most suited to my investigation and subsequent wards, as well as how the rating system and total overall score made my final data easily comparable.  | A drawback of this form of data
+collection is how the quality of the environment (and the ranking)t are
+subjective. This is because not only are they dependent on the time spent collecting
+data and the mood of the investigator,
+but the scoring could also be impacted
+by the weather and time of year. | Although the reliability is slightly undermined by the subjective nature of this survey, the results are nevertheless still reasonably reliable. This is due to how I conducted the survey in both wards on the same day straight after each other, thus minimising the risk of external influences such as time of day (school run and commuting in the morning/evening) impacting my results in one of the areas.  |  To try to increase the validity, next time I could enlist numerous people to record results in order to get more comprehensive and thus valid results. Furthermore, with more time I could repeat the survey during different seasons and hours of the day in order to account for and appreciate variations that could arise from this. |
+| Crime survey | Allows individual-level safety perceptions and actual crime dynamics through collecting both statistical and experimental data. Researchers are therefore able to develop a valid understanding of spatial inequalities related to security and safety.  | Drawbacks include potential underreporting of incidents which would distort the data, variations in crime reporting across different demographic groups (age, gender, ethnicity and more).  |  This data collection method is reliable, however the reliability could be improved through comparing official crime statistics with resident experiences, and initiating an anonymous reporting method. This may incentivise more individuals to report crimes thus enhancing the reliability of the data collected.  |  Potential modifications to this survey could include segregating the survey based on demographic characteristics (age, gender, ethnicity and more). Moreover, implementing digital reporting methods will make reporting crime incidents more efficient and will incentivise a higher number of individuals to report crime incidents.  |
+| High street services survey |  By mapping available services, researchers can understand inequalities in urban access provision. This method allows a systematic approach to service distribution, and its validity is confirmed through the comprehensive understanding of economic infrastructure.  |  A drawback to this method is that it does not capture the quality of the services available on the highstreet, alongside it being difficult to quantify accessibility.  |  This is a reliable method to capture the quality of services on high streets, however it could be improved through incorporating qualitative community feedback to aid a better understanding of the quality of services available on the high streets of each spatial location.  | Recommended modifications include integrating an accessibility assessment, as some of these services may be unable to use in different spatial locations due to the average salary in the area.   |
+| Local Business Retail Price Index survey |  This method is quantitative which aids its validity as it is less subjective than qualitative data. Therefore, this valid method allows the understanding of economic disparities, providing valuable insights into the variations of cost-of-living and economic accessibility.  | Methodological drawbacks include temporal price fluctuations which are not accounted for within the survey. Moreover, not all products are represented offering a distorted perspective of the accessibility to products on an economic scale.   |  The reliability of this method could be improved through standardising the product selection that is surveyed so that it offers an aligned representation on the economic accessibility in different spatial locations. Furthermore, contextualising price data with broader economic indicators, such as the average salary in each spatial location, would allow for a better understanding of economic accessibility on a regional scale.  | Potential improvements to this method could include incorporating qualitative economic experience data to better understand the economic accessibility in each spatial location on an individual-level. In addition, by expanding the product range there is a more accurate representation of cost-of-living issues in each area.  |
+
+OVERALL EVALUATION:
+
+In evaluation, although my investigation was largely thorough and comprehensive, there are opportunities to consider to strengthen and deepen my attempts to answer my hypotheses. The selection of Golborne and Brompton and Hans Town proved valuable as they represent starkly contrasting socioeconomic profiles within the same borough, and their proximity facilitated efficient primary data collection. Though my comparative investigation between the two wards revealed key inequalities, my analysis could have been expanded to include additional variables and strands of inequality to provide an even more comprehensive understanding of inequalities in the borough. Whilst I endeavoured to draw heavily on both primary and secondary data, the primary data collection was less concentrated in my social inequality hypothesis and was used predominantly when analysing environmental inequality. As a result, a more balanced use of primary data would have provided a more balanced analysis. Furthermore, though systematic spatial sampling ensured good coverage, time constraints made it tricky to effectively cover the entirety of the two wards, and random sampling for photographs, while illustrative, could have introduced personal bias that might suggest greater or lesser disparity than actually exists. The Index of Decay and Environmental Quality Index (EQI) helped quantify factors effectively, and having a single person recording these measures enhanced reliability by ensuring consistency and that any systematic biases remain constant rather than variable. Thus, though my primary data collection was partially hindered by its inherently subjective nature and time constraints limiting my ability to repeat surveys, I undertook a variety of precautions to help control for external factors to the best of my ability. Additionally, a potential limitation of some secondary data is that ONS maps examining Output Areas (OA) rather than data per street/ward may conceal disparities. However, the secondary data that I utilised is still substantially reliable and valid due to its official sourcing and government approval, further strengthening the investigation. Overall, my investigation utilised reliable primary and secondary data to help provide valuable insights into disparities between the two wards I explored, thus reinforcing the validity and reliability of the subsequent analysis and conclusions I came to, and thus my overall investigation.
+
+# Reference list:
+
+Consumer Data Research Centre (2020). *Index of Multiple Deprivation (IMD) | CDRC Data*. [online] data.cdrc.ac.uk. Available at: https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd.
+
+GOV.UK. (2022). *UK House Price Index for March 2022*. [online] Available at: https://www.gov.uk/government/news/uk-house-price-index-for-march-2022.
+
+Maclennan, D. (2023). *How does the housing market affect wealth inequality?* [online] CaCHE. Available at: https://housingevidence.ac.uk/how-does-the-housing-market-affect-wealth-inequality/.
+
+McCarthy, N. (2017). *Infographic: The Most Expensive Places To Buy A House In London*. [online] Statista Daily Data. Available at: https://www.statista.com/chart/8151/the-most-expensive-places-to-buy-a-house-in-london/#:~:text=According%20to%20figures%20from%20Lloyds [Accessed 29 Sep. 2024].
+
+conclusion
+
+## **>> 1 To what extent does Br****ompton and Hans Town have a higher level of economic prosperity than Golborne.**
+
+To a large extent it is apparent that Brompton and Hans Town does have a higher level of economic prosperity than Golborne. This is supported by the collected data which provides evidence for economic inequality between the two locations.
+
+This is evident with figure (10?) which represents the percentage of residents that are second home owners in the compared wards. The data showcase the fact that individuals in Brompton and Hans Town are fourteen times more likely to own multiple properties compared to those living in Golborne.Thus clearly showing the significant economic inequality between these wards. Moreover, this can be furthered by when compared on a national scale, as only 3% of the UK population own a second home (GOV.UK, 2022). Hence as 42% of residents in Brompton and Hans Town own a second home, this clearly shows that the area is home to residents that are overwhelmingly economically prosperous on a national scale too not just in comparison to Golborne. 
+
+Additionally, the ownership of second homes is generally recognised to increase property prices within the given area, as it causes property prices to increase due to higher demand and so can uproot locals who may not be able to afford these new house prices.Consequently, this arguably increases inequality between the influx of these new ?yuppies? and locals who may be uprooted or those who can afford to remain because of previously purchasing land but may be in a different socio-economic standing.
+
+Moreover, the economic inequality between the two locations can be further supported through the discrepancy in prices. This can be seen in figure 11 and 12 which reflects the difference in the purchasing power of residents in Brompton and Hans Town to those in Golborne. For example, the price of a basic men's haircut in Brompton & Hans Town (?32.00) is nearly four times higher than in Golborne (?8.50). Hence clearly showing a substantial disparity in service costs that could affect affordability for residents of lower economic means. The difference in pricing could perhaps also reflect the difference in locals' disposable income, with each price being relative to what is affordable for most locals and so are indicative of the broader economic inequality between the two wards. Moreover, this can be further supported in figure 11 which showcases that the average rent per month is 100% more in Brompton and Hans Town than it is in Golborne. Hence further adding to the hypothesis  that residents are overwhelmingly more able to afford considerably higher prices in Brompton and Hans Town. According to the Cost of Living Theory (Engel, 1857), households with higher incomes tend to spend more on goods and services, driving up prices in affluent areas due to increased demand and the ability to pay premium prices. This creates an environment where only the wealthiest individuals can afford to reside comfortably, which exacerbates socio-economic segregation. Hence as there is such a stark difference in these prices, this clearly suggests that  the residents of Brompton and Hans Town have a significantly higher economic prosperity than those in Golborne as they are more able to provide a market for these high priced goods.
+
+Moreover, the difference in shop types within these locations further adds to this argument, with there being more ?high/end retail stores? as well as ?organic food/ingredient shops? in Brompton and Hans Town compared to there being none in Golborne. Hence as shop types often reflect the demands of the local demographic and these types of shops are likely to sell higher cost goods, this further implies that residents in Brompton and Hans Town have a higher disposable income than those in Golborne. Furthermore, the Spatial Inequality Framework suggests that such economic disparities within close geographic proximity can lead to social stratification and reduced social cohesion (Smith, 2011). Residents of lower-income areas may experience limited access to high-quality goods and services and so may be living a lower quality of life than those in more affluent areas. With there being few organic food shops, and high end clothing shops in Golborne while there are more in Brampton Hans Town,this  highlights economic disparity between the residents of the two wards and the difference in their access to high quality goods and services could also suggest in difference in their quality of life.
+
+ This economic inequality can be further supported through the photos (??). As these photos highlight a difference in the property quality and size within the two areas, this further adds to the argument that there is a large difference in the economic prosperity between these two locations. Hence, as the data presents that the residents of  Brompton and Hans Town have a considerably higher disposable income than those in Golborne, live in larger properties with a higher quality and have a higher percentage of residents that own second homes, this clearly showcases there is a greater level of econ prosperity in Brompton and Hans Town in comparison to Golborne. 
+
+Geographers David Harvey (1973) and Henri Lefebvre (1991), suggest that urban spaces are often sites of socio-economic exclusion, where capitalist processes of accumulation and development concentrate wealth in specific areas while marginalising others. The stark economic differences between the two locations support this theory, with wealth accumulated in areas such as Brompton and Hans Town while Golborne remains less economically prosperous. Hence using this theory, it's clear that to a large extent Brompton and Hans Town does have a higher level of economic prosperity than Golborne.
+
+In conclusion, the collected data clearly provides evidence for variations in economic inequality between BHT and G.
+
+- Concluded in figure (showing prop of residents w multiple properties) which is clear indicator of econ inequality w only 3% UK homeowners having a second home (ONS)
+
+- second homes also exacerbate inequality by forcing out locals and pushing up house prices
+
+- (use stats here from ur graph)
+
+- furthermore, despite % of BHT residents with multiple homes being higher, the overall average house price in BHT is ?. compared to GR with ?, emphasising the degree of economic inequality no
+
+- this ties into graph (discrepancy in prices) - higher price of goods/services in BHT links to fact that there is a likely higher quality of services/goods (like the higher quality/bigger size etc of housing) -> fact that residents still live here adn the prevalence of these higher BHT properties is indicative of higher disposable income of BHT as providing market for these high prices
+
+- Reinforced by figure (on vacant shops), as less market/competition in poorer GR, hence more vacant stores due to minimal consumer spending power and attractive incentives for businesses to set up (negative multiplier effect)
+
+- furthermore, higher price of services/goods links to high number of ?high-end retail stores? as well as ?organic food/ingredient shops? in BHT versus 0 in GR - illustrates disparity in equality, and extra disposable income, time, and energy present in BHT residents versus GR
+
+- it?s thus apparent from this data that there is a greater level of econ prosperity in BHT in comparison to GR
+
+- shows that although higher cost of living in BHT, can be attributed to fact that ppl in this area are willing and able to afford these prices (lets find a stat) - prices out poorer residents
+
+- Huge $ diff in meal of pizzeria + bread loaf could suggest differing qualities of ingredients and produce - diff demands + expectations for diff qualities of produce???
+
+- If were to redo this aspect of investigation, could investigate/ask abt at quality of ingredients used for both, where they are sourced etc (even whether that is listed as smth on packaging/mennu etc- ie is that smth customers value (likely in BHT))
+
+
+Comparison of economic activity-
+
+Stark Differences in
+
+Social inequality framework
+
+.
+
+Cost of living - discrepancy in prices - all goods were more expensive in BHT, with even a basic loaf of white bread costing twice as much in BHT
+
+David Harvey (1973) and Henri Lefebvre (1991), suggest that urban spaces are often sites of socio-economic exclusion, where capitalist processes of accumulation and development concentrate wealth in specific areas while marginalising other. The clear differences between BHT and G support this theory, with wealth accumulated in areas such as BHT.
+
+These price disparities are indicative of the broader economic inequality between the two wards. According to the Cost of Living Theory (Engel, 1857), households with higher incomes tend to spend more on goods and services, driving up prices in affluent areas due to increased demand and the ability to pay premium prices. This creates an environment where only the wealthiest individuals can afford to reside comfortably, which exacerbates socio-economic segregation.
+
+Cost of living - discrepancy in prices - all goods were more expensive in BHT, with even a basic loaf of white bread costing twice as much in BHT
+
+Furthermore, the Spatial Inequality Framework suggests that such economic disparities within close geographic proximity can lead to social stratification and reduced social cohesion (Smith, 2011). Residents of lower-income areas may experience limited access to high-quality goods and services, which has the added
+
+few higher order goods/ organic food etc in Golborne, more in BHT, shows economic disparity and limited access to high quality goods and services.
+
+**2. To what extent does Golborne have a higher level of environmental degradation than Brompton and Hans Town?**
+
+To an extent the data showcases Golborne does have a higher level of environmental degradation than Brompton and Hans Town. Firstly, this is supported through figure 14 which compares the Environmental Quality Survey for the two wards. This difference is clear as figure 14 shows that Brompton and Hans Town scored higher than Golborne in all areas showing that it is a safer and cleaner environment. This environmental inequality is apparent as the figure highlights this difference with Bromtpon and Hans receiving high scores with all but one gaining either the highest or almost the highest score, while 90% of the data collected for Golborne provides it with a score of 2 or lower. Hence clearly showing environmental inequality and so supports the hypothesis that Golborne does have a higher level of environmental degradation than Brompton and Hans Town.
+
+Additionally, the Environmental Quality Survey indicators of ?natural features present?, ?condition of public and private green spaces?, and ?air and noise pollution? imply discrepancies in terms of upkeep and presence of green space. As it can be easily implied that the residents of Brompton and Hans Town overwhelmingly hold a higher disposable income, they are more able to and most likely willing to pay higher prices in return for a better surrounding environment. This could include paying for gardening, choosing housing that holds access to private parks, or paying to live in close proximity to well functioning services. Moreover, despite Brompton and Hans Town being closer to the central city, where properties are often smaller and more expensive, the ward holds a greater area of average garden area. Thus clearly showing geographic inequality, as those living in Brompton and Hans Town have better access to nicer greenery (illustrated by images xyz) and private well-kept clean quiet gardens (images xyz). Therefore, when this is considered with theories of environmental justice (which suggest deprived areas often experience poorer environmental conditions) and as Brompton and Hans Town is proven above to be more affluent than Golborne, this implies that hypothesis one and two are inherently interlinked (Walker, 2018). 
+
+Moreover, the index of urban decay in Golborne is shown to have a higher level of degradation than Brompton and Hans Town. This is apparent, as figure 14 highlights that Golborne scored significantly higher than Brompton and Hans Town for every category. The figure shows that Golborne scores high ratings with all being above six and one category reaching the highest score of 10 suggesting that the area holds environmental degradation. Comparatively, the average score for Brompton and Hans Town did not reach above a low three and a zero in three categories presenting a low level of degradation. When recording this data, I found that there were no indicators of "displaced roof material", "significant structural damage", or "rotting timber/rusted material". This not only suggests that  Brompton and Hans Town receive better maintenance, but also that perhaps their buildings are made of more quality materials reinforced by the photos in figure?.. which suggests a higher quality of property. Moreover, this overwhelmingly higher quality of property can also be supported by figure 11 which highlights the 100% higher average rent per month in Brompton and Hans Town compared to Golborne and so from this considerably higher price, suggests that the standard of housing must at least somewhat differ between the two wards. It is possible that these differences in the environment of these wards is due to their contrasting economic prosperity, as Golborne?s lower economic prosperity could discourage investment into it while driving it into more affluent areas like Brompton and Hans Town. Consequently, this could lead to issues that exist in Golborne such as poorer lighting which could encourage higher levels of crime so have social implications too. This claim is supported by figure 19 which highlights that Golborne scores higher than Brompton and Hans Town for all given categories used to assess crime within the wards. Moreover, figure 18 further adds to this argument, as it showcases that the crime prevention method of CCTV is on average found almost twice as much in Brompton and Hans Town than Golborne. It is possible that the reasoning behind this links to hypothesis one, which comes to the conclusion that residents in Brompton and Hans Town are overwhelmingly more affluent, and so will have a greater disposable income to spend on security measures such as CCTV. 
+
+However, figure 18 also shows that for 67% of the categories used, Golborne received a higher score. Perhaps, this could suggest that the ward is slowly becoming more invested in, and could become a safer environment in the future? Or perhaps, this simply suggests that due to significantly higher levels of crime, these preventative methods are more necessary than they are in Brompton and Hans Town where crime levels are lower. To conclude, the data in figure 18 could perhaps suggest that Golborne does hold a higher level of environmental degradation than Brompton and Hans Town but that the ward may become a safer place in the future due to greater crime preventative indicators. Hence giving weight to the hypothesis that although Golborne does have a higher level of environmental degradation than Brompton and Hans this could perhaps change in the future as it could become a safer ward due to more investment in crime preventation.
+
+Moreover, the data proposed in figure 59 shows some more optimistic trends for the environment of Golborne. The green space map shows Golborne has more green spaces than Brompton and Hans. This could perhaps be due to Brompton and Hans' closer location to London?s CBD meaning that large areas of green spaces are hard to find due to it being largely built up, but either way this still shows that Golborne technically has more green spaces to offer to its residents. Moreover, these green spaces remain usable and are frequently used by residents with it seeming to be busy when I visited to collect my data. Comparatively, the green spaces in Brompton and Hans were noticeably empty when visiting, suggesting that locals may not feel the need or ability to use it. This could perhaps be explained by the fact that in July of 2024, a 15 year old boy was shot and killed in the park (BBC, Low). Hence, as this event occured not long before I visited the ward, this recent event could still be deterring locals in Brompton and Hans from using these green spaces due to fear of it being unsafe and a breeding ground for crime. Instead, the larger gardens in Golborne may be perceived as more desirable and present safer spaces for residents in the comfort of their own home. Hence, giving some weight to the argument that Golborne does not have higher environmental degradation than the ward of Brompton and Hans.
+
+Finally, through the conducting of a crime survey it is clear that there are high levels of visible crime such as graffiti, vandalism and littering in Golborne. These crimes could perhaps be occuring due to a poor perception of the area, amongst residents and visitors who may hold limited attachment to the place and so may feel less inclined to keep it litter free and the walls graffiti-less. Hence, these crime rates and types clearly align with my initial hypothesis about the correlation between inner-city deprivation and elevated crime rates. This supports the broader concept that socially and economically deprived areas generally experience more visible signs of crime due to a combination of lower investment in public infrastructure, greater societal tensions, and often overwhelmed local law enforcement capabilities and so shows how the economic prosperity of the two wards impacts their environment too. Thus when all is considered, it is apparent that Golborne does hold a higher level of environmental degradation than Brompton and Hans.
+
+- overall, it is clear that there is the presence of environmental inequality between BHT and GR
+
+- evident from how EQS BHT scored higher than G in all areas providing a safer clear environment in BHT. This could link to economics as it discourages investment in G and social as it poorer lighting in G could encourage crime.
+
+- Result of different economic prosperity- can impact on social with residents living in unsafe and unhealthy conditions
+
+- moreover, in EQS, indicators of ?natural features present?, ?condition of public and private green spaces?, and ?air and noise pollution? indicate discrepancies in terms of upkeep and presence of geren space, suggesting that the residents of BHT w more disposable income are more able and willing to pay higher prices in return for a better surrounding environment e.g. paying for gardening, choosing housing w access to private parks
+
+- reinforced by BHT having greater square area of average garden area despite being more city central (house prices go up w PLVI/CBD) - clear geographic inequality, as those living in BHT have better access to nicer greenery (illustrated by images xyz) and private well-kept clean quiet gardens (images xyz)  \
+        - This is based on theories of environmental justice, which suggest deprived areas often experience poorer environmental conditions (Walker, 2018).
+
+
+- Disparity in environmental degradation also supported by index of urban decay where more decay was evident in Golborne for every category.
+
+- Crime- generally more crime prevention in G except visible police presence (due to societal tension?) and cctv. CCTV may be installed by affluent householders.
+
+- Higher levels of all crime indicators in G
+
+- High levels of graffiti, fly tipping,  , vandalism in G due to poor perception and limited attachment to the place
+
+**3. ****To what extent is the level of social deprivation higher in Golborne than in Brompton and Hans Town? **
+
+To a large extent it is apparent that there is clearly a higher level of social deprivation in Golborne than in Brompton and Hans Town. This is supported by my collected data which supports this conclusion.
+
+Firstly, hypothesis three is supported by the fact that there is a drastic difference in educational opportunities between the two wards. For example, as is highlighted in figure 67 Brompton and Hans, residents living in the circled area lived within a half a mile radius to many schools both primary and secondary. However, out of the 23 schools presented only four of them were state schools and they were all primary. Hence, as 82.6% of schools that are situated in a close proximity to the area are private, it is likely that they are situated there due to its residents being affluent enough that they can afford to privately educate their children and due to their being a demand from locals for this type of education. Thus as data from the government shows that as of 2019 only 7% of British people were privately educated, this clearly shows that its? residents are overwhelmingly affluent, reinforcing hypothesis 1 that Brompton and Hans Town is more economically prosperous than Golborne, as a considerably smaller 36.4% of schools within the data are private (Gov, Elitism in Britian). Hence, as the majority of schools within Golborne as state schools and so are accessible for everyone, whilst the vast majority of those in Brompton and Hans are private and so are closed to most people excluding the elite, this suggests a disparity in the social and economic inequality of the residents between the two wards.
+
+Moreover, it is likely that social inequality will continue and most likely become amplified between these two wards. This is predictable, due to their difference in the availability of private and state education explored above. With private schools often achieving greater educational attainment and results and historically sending their pupils off to well-known universities, state education receives less funding and so often sees the majority pupils receiving lower grades. With lower grades, students may find their opportunities limited, including going to elitist universities which then opens up many doors and opportunities for its graduates. Hence, as this a cycle which will continue to repeat, it is likely that social inequality will become greater between the two wards for as long as their available types of education remain the same, as students will likely have different opportunit?s and therefore lives based on their grades and schooling.
+
+Additionally, it is possible that this difference in education could possibly have powerful ramifications on the long term socioeconomic status of their family and children. Low or lower levels of education and grades can lead to a poverty cycle which could perpetuate deprivation within Golborne. This is emphasised by figure 65 which shows the Index of Multiple Deprivation (IMD ) for the ward based on data from 2019. The figure clearly shows that under the IMD the ward is considered as deprived, with the vast majority of the area being categorised under either the second or third most deprived category. This not only explains the reasons for less private schools in the area, as these high levels of deprivation mean that it is unlikely that most residents have a demand for this type of education as they are most likely unable to afford it due to having a lower disposable income. Whereas, this is shown to differ from Brompton and Hans Town, with figure 66 showing that under the IMD the ward is considered as not deprived. The ward is categorised, with the vast majority of it being a blue colour meaning that it is overwhelmingly considered as a not deprived area, with several sections of the map even being coloured in a darkest blue, showing that it is the least deprived decile. There is an anomaly in figure 66 which shows an area coloured in red and categorised as the second most deprived decile with the area surrounding it being ranked as the third, fourth and fifth. This can be explained by the location of the housing estate which can be found in the most deprived area and so suggests that there may even be extreme economic and thus inherently also social inequality between residents within the same ward, with some residents being categorised as the most deprived, while others were considered to the least, despite living in a close proximity. Hence, it is clear that although there is a variation in the deprivation found in Brompton and Hans it is overwhelmingly a less deprived ward than Golborne, as is supported by the evidence collected to answer hypothesis one. It is apparent that the overwhelming socio-economic standard of residents in the two wards differ greatly suggesting economic inequality and thus inherently social inequality too. Therefore, when this is considered it is clear that there is a higher level of social inequality in Golborne than there is in Brompton and Hans Town.
+
+Adding on, this theme of social deprivation can be further followed when looking at the Distribution of Children Living in Out-of-work Benefit Claimant Households Across All Wards. This is clear as the graph highlights that Golborne holds a high number of almost 400 children, ranking it as the third highest ward out of the eighteen listed. Whereas, Brompton and Town Hans has a low number of less than forty children, and is ranked as the fourth lowest ward. Hence this clearly highlights not only a difference in the overwhelming economic prosperity of the residents within the two wards ( helping us to answer hypothesis one), as fewer parents require financial aid in Brompton and Town Hans, but also suggests social inequality between the two wards. This can be supported as a lower economic standard, is likely to see people living a lower quality of life, due to a smaller disposable income and so will have less money to spend on non-essential items. As a result, it is likely that children residents that are living on benefits are more likely to live a low quality of life in comparison to those who do not require this aid. Thus, as there are almost 10 times more children on benefits in Golborne than in Brompton and Hans Town, it is likely that there are more people experiencing this low quality of life. Therefore, this data on benefits further supports the argument that to a large extent social deprivation is higher in Golborne than in Brompton and Hans Town.
+
+Moreover, research conducted by the Nuffield Foundation suggests that there is a correlation between children that undergo experience such as poverty during their childhood and committing ?serious? offences and ?frequent criminal convictions in adulthood? (Nuffield Foundation). Thus, this study could perhaps present a reason for the higher crime levels in Golborne, that were used to support hypothesis two. It is possible that through growing up in an environment of deprivation, Golborne has become a breeding ground for crime with residents that grew up there who may become more inclined to commit crimes as they enter adulthood. This experience differs from the vast majority of residents in the more affluent area of Brompton and Hans Town, where deprivation measured by the IMD is considerably fewer and less children are living on benefits. Hence as crime levels are also considerably lower in Brompton and Hans Town than in Golborne, this could perhaps suggest a correlation between these factors, of higher levels of deprivation often leading to higher levels of crime. Therefore, it is clear that there is stark social inequality between the two wards and their r?sidents and so clearly adds weight to the argument that to a large extent there is a higher level of deprivation in Golborne than Brompton and Hans Town.
+
+Furthermore, figures 62,63 and 64 further explores crime within the two wards and helps us to understand their comparative deprivation. The figures indicate economic inequality, as well as social inequality. Figure 64 highlights that crime data is 9.39% in Brompton and Hans Town while figure 63 shows that Golborne is a slightly lower 8.10%. While this raw data may on the surface suggest that there is higher deprivation in Brompton and Hans Town than Golborne as crime is often perceived as a factor towards deprivation, when explored further it is likely that there is a greater reason for these statistics.
+
+Possible reasons for higher crime in Brompton and Hans Town when it comes to theft, vehicle offences,robbery and bulgare can be attributed to the fact that its residents' greater economic prosperity and wealth  make them a more suitable fit for crime, due to higher assumed reward for the criminal. Moreover, it is likely that residents of Brompton and Hans Town may be more likely to put their wealth on display through expensive items such as cars making them easier targets for crime when compared to Golborne, where citizens may hold a lower disposable income and so may be unable to display wealth in this same way. This theory can be supported by the data in figure 18 which shows that the average use of CCTV is considerably higher in Brompton and Hans Town in comparison to Golborne and so suggests that its residents may believe that they have expensive goods to protect. Adding to this argument, using the data presented by the IMD it is clear that there is social inequality within Brompton and Hans Town with their pockets of deprivation existing alongside extreme wealth. Hence, this stark inequality within such a close proximity is likely to breed discontent and jealousy and could lead to crime. This could perhaps provide a reason for the data that is presented in the three figures.
+
+Additionally, the greater prevalence of crime prevention indicators in public to reduce antisocial behaviour such as security fencing and behaviour reinforcement signs used in Golborne (figure 60) could imply that there is deprivation within the area by suggesting a necessity for these signs to be implemented, as it implies that visitors and or residents may feel inclined to commit criminal offences. As people are often incentivised to commit crimes on the basis of economic desperation, this could perhaps suggest that Golborne residents recognise this deprivation within their community, to the extent that they feel the need to protect themselves from becoming a victim to it.  This is reinforced by the results presented in figure 61 which disproportionately displays greater recorded visual indicators of crime in Golborne than Brompton and Hans Town, which could provide a reasoning for why residents may perceive their area as unsafe and feel the need to take precautions in order to feel safe. Comparatively, figure 61 highlights that Brompton and Hans Town experienced considerably lower levels of the crimes measured in the table and so from this data we can infer that visitors and residents may feel less inclined to commit the petty crimes listed. Hence, if they are less incentivised to commit these acts, combined with the areas higher average rent per month, lower ranked deprivation on the IMD map, this clearly supports the argument that to a large extent there is a higher level of deprivation in Golborne than in Brompton and Hans Town. 
+
+Overall
+
+To what extent does quality of life vary between deprived and affluent wards within the London Borough of Kensington and Chelsea?
+
+All three subquestions showed large disparities backed up by overall patterns in IMD
+
+- the compiled primary + secondary data analysed clearly presents the argument that inequality is present between BHT and GR, this inequality specifically being that of environmental, economic and social, thus impacting the daily lives of residents
+
+- thus, despite the clode proximity of these two wards and their shared presence in the same borough, this investigation exploring the huge inequaities on this loal scale highlight the pervasivness of inequality on such a small scale in a city as wealthy as Lodnon, despite London having the highest median income within the UK before housing costs (Harari and McGuinness, 2019)
+
+- thus, the clear pockets of deprivation and extreme wealth found in this investigation suggest not only the likelihood of this pattern of inequality playing out on a more regional scale in a city as rich as  London, but also on a national scale (n/s divide),
+
+- thus, this investigation highights how inequality is still rife in such a small section of London, rather than being a feature of the past/developing countries, or AREAS SUCH AS BLACKPOOL (?) THAT ARE TRADITIONALLY DEPICTED AS DEPRIVED
+
+THIS NEEDS TO BE DONE ->> Recognise the **tenuous nature **of the conclusions, especially where the evidence is partial or limited. \
+
+
+
