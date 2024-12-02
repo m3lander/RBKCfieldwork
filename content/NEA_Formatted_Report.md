@@ -138,7 +138,9 @@ Furthermore, urban theories of inequality, such as those developed by David Harv
 
 #### Data Presentation
 ##### Environmental Quality Survey Results
-[Insert figure 55: Bar chart of Urban EQS results]
+![Environmental Quality Survey Results](/images/phQ_Image_55.jpeg)
+
+*Figure 55: Environmental Quality Survey Results comparing Golborne and Brompton & Hans Town*
 
 The Environmental Quality Survey revealed significant disparities between the two wards:
 - Brompton & Hans Town scored higher than Golborne in all areas
@@ -146,7 +148,9 @@ The Environmental Quality Survey revealed significant disparities between the tw
 - Natural features, green spaces, and pollution levels showed marked differences
 
 ##### Index of Urban Decay
-[Insert figure 56: Bar chart comparing average index of urban decay scores]
+![Index of Urban Decay](/images/phQ_Image_55.jpeg)
+
+*Figure 56: Bar chart comparing average index of urban decay scores*
 
 #### Analysis of Environmental Indicators
 1. Building Quality
@@ -161,11 +165,52 @@ The Environmental Quality Survey revealed significant disparities between the tw
 
 [Continue with your existing environmental analysis...]
 
+### Environmental Analysis
+
+#### Urban Decay and Infrastructure
+The physical environment shows clear signs of disparity between the two wards:
+
+![Evidence of urban decay](/images/eQh-garage-door-couple-coats-description.jpeg)
+
+*Figure 35: Evidence of urban decay in Golborne*
+
+In Golborne, there are visible indicators of decay:
+- Loose wires and graffiti
+- Dirty stained walls
+- Poor maintenance of buildings
+- Less inviting atmosphere in commercial areas
+
+![Environmental conditions](/images/xp3-tree-next-garage-description-automatically.jpeg)
+
+*Figure 36: Environmental conditions in Golborne*
+
+The contrast in infrastructure quality is evident:
+- Smaller windows and lower ceilings in residential buildings
+- Damaged ventilation systems
+- Higher density of inhabitants
+- Presence of rubbish and environmental degradation
+
+![Street infrastructure](/images/AFs-street-cars-parked-description-automatically.jpeg)
+
+*Figure 37: Street infrastructure in Golborne*
+
+#### Green Space Analysis
+Despite being closer to the city center, Brompton & Hans Town demonstrates superior environmental quality:
+- Larger garden areas (average 3m² extra per person)
+- Better maintained public spaces
+- Higher quality green infrastructure
+- More private gardens
+
+This disparity in green space access and quality reflects the economic power differential between the wards, with Brompton & Hans Town residents able to maintain larger gardens despite higher land values near the city center.
+
 ### Hypothesis 2: Social Deprivation
 
 #### Data Presentation
 ##### Educational Opportunities
-[Insert figures 67-68: Maps showing school proximity]
+![School proximity map 1](/images/nQO_Image_68.png)
+![School proximity map 2](/images/EdM_Image_68.png)
+
+*Figures 67-68: Maps showing school proximity*
 
 The analysis of educational facilities reveals stark disparities:
 - 82.6% of schools near Brompton & Hans Town are private institutions
@@ -173,7 +218,10 @@ The analysis of educational facilities reveals stark disparities:
 - Access to educational opportunities shows significant variation
 
 ##### Crime Data Analysis
-[Insert figures 62-64: Crime occurrence maps]
+![Crime occurrence map 1](/images/kJ8_Image_61.png)
+![Crime occurrence map 2](/images/p95_Image_62.png)
+
+*Figures 62-64: Crime occurrence maps*
 
 Key findings from crime data comparison:
 - Higher prevalence of visible crime indicators in Golborne
@@ -198,7 +246,9 @@ Key findings from crime data comparison:
 
 #### Data Presentation
 ##### Property Ownership and Value Analysis
-[Insert figure 10: Multiple home ownership data]
+![Multiple home ownership data](/images/GPT_Image_10.png)
+
+*Figure 10: Multiple home ownership data*
 
 Key findings from property analysis:
 - Brompton & Hans Town residents are 14x more likely to own multiple properties
@@ -206,7 +256,10 @@ Key findings from property analysis:
 - Property ownership rates significantly exceed national average of 3%
 
 ##### Price and Service Disparity
-[Insert figures 11-12: Price comparison data]
+![Price comparison data 1](/images/JVo_Image_11.png)
+![Price comparison data 2](/images/GPT_Image_10.png)
+
+*Figures 11-12: Price comparison data*
 
 Analysis of service costs reveals:
 - Men's haircut prices vary from £8.50 (Golborne) to £32.00 (BHT)
@@ -236,153 +289,113 @@ Key observations:
    - Vacant properties indicate economic challenges in Golborne
    - Evidence of market adaptation to local wealth levels
 
-[Continue with your existing economic analysis...]
+### Economic Analysis
+
+#### Property Ownership and Wealth
+The data reveals significant disparities in property ownership between the wards:
+- Brompton & Hans Town residents are 14x more likely to own multiple properties
+- 42% of BHT residents own second homes versus 3% in Golborne
+- Property ownership rates significantly exceed the national average of 3%
+
+![Multiple home ownership data](/images/GPT_Image_10.png)
+
+*Figure 10: Multiple home ownership data*
+
+#### Price and Service Disparities
+Analysis of service costs reveals stark economic differences:
+
+![Price comparison data 1](/images/JVo_Image_11.png)
+![Price comparison data 2](/images/GPT_Image_10.png)
+
+*Figures 11-12: Price comparison data*
+
+Key findings include:
+- Men's haircut prices: £8.50 (Golborne) vs £32.00 (BHT)
+- Gym membership costs: £22.00 vs £60.00 (nearly triple)
+- Dining costs: £12.00 vs £25.00 for comparable meals
+
+#### Commercial Environment
+The high street analysis reveals:
+- Higher concentration of luxury retail in BHT
+- Presence of organic food shops in BHT versus none in Golborne
+- Vacant shops more prevalent in Golborne (5 locations)
+- Clear market segmentation based on affluence
+
+This economic stratification is reflected in the types of businesses present, with BHT featuring high-end retailers and luxury services while Golborne shows signs of economic challenges through vacant properties and lower-cost establishments.
 
 ## V. Conclusions and Evaluation
 
-### Overall Conclusion: Quality of Life Variation
+### Summary of Findings
 
-The compiled primary and secondary data analyzed clearly demonstrates that significant inequality exists between Brompton & Hans Town (BHT) and Golborne Road (GR) wards across environmental, economic, and social dimensions, substantially impacting residents' daily lives.
+The investigation has revealed substantial disparities in quality of life between Golborne and Brompton & Hans Town wards across multiple dimensions:
 
-Despite their close proximity and shared presence in the same borough, this investigation reveals profound inequalities on a local scale, highlighting the pervasiveness of inequality in a city as wealthy as London - notable given that London has the highest median income within the UK before housing costs (Harari and McGuinness, 2019).
+#### Environmental Quality
+- Clear evidence of urban decay in Golborne
+- Superior green space access and maintenance in BHT
+- Significant infrastructure quality differences
+- Higher environmental degradation in Golborne
 
-The clear pockets of deprivation alongside extreme wealth found in this investigation suggest:
-1. The likelihood of this pattern of inequality playing out on a more regional scale in London
-2. Similar patterns potentially existing on a national scale (North-South divide)
-3. That inequality remains endemic even in small sections of affluent London, rather than being:
-   - A feature of the past
-   - Limited to developing countries
-   - Restricted to areas traditionally depicted as deprived
+#### Social Conditions
+- Educational opportunity gaps
+- Higher crime rates in Golborne
+- Greater social services accessibility in BHT
+- Marked differences in community facilities
 
-#### Economic Inequality Findings
-Economic analysis reveals substantial disparities between the wards:
+#### Economic Disparities
+- Substantial property ownership differences
+- Significant price variations for basic services
+- Distinct commercial environments
+- Clear wealth concentration in BHT
 
-1. Property Ownership:
-   - BHT residents 14x more likely to own multiple properties
-   - 42% of BHT residents own second homes vs 3% in Golborne
-   - Property ownership rates reflect significant wealth concentration
+### Evaluation of Hypotheses
 
-2. Service and Price Disparities:
-   - Basic services show marked price differences (e.g., haircuts 4x higher in BHT)
-   - Clear market segmentation between wards
-   - Service quality and availability reflects economic divide
+1. Environmental Degradation Hypothesis: **CONFIRMED**
+   - Clear evidence supports environmental quality disparity
+   - Infrastructure differences align with socioeconomic status
+   - Green space access shows significant variation
 
-3. Business Environment:
-   - Higher concentration of luxury retail in BHT
-   - Vacant properties more prevalent in Golborne
-   - Clear economic stratification in retail mix
+2. Social Deprivation Hypothesis: **CONFIRMED**
+   - Educational opportunities show clear disparity
+   - Crime rates demonstrate social challenges
+   - Community facilities reflect resource differences
 
-#### Environmental Quality Variation
-Environmental analysis demonstrates clear disparities:
+3. Economic Prosperity Hypothesis: **CONFIRMED**
+   - Property ownership patterns show wealth concentration
+   - Service prices indicate economic stratification
+   - Commercial environment reflects wealth disparities
 
-1. Environmental Quality Survey Results:
-   - BHT scored consistently higher across all indicators
-   - 90% of Golborne's indicators scored 2 or lower
-   - Significant differences in maintenance standards
+### Limitations and Future Research
 
-2. Green Space Access and Quality:
-   - Contrasting patterns in green space availability
-   - Quality differences despite similar quantity
-   - Maintenance and usage patterns vary significantly
+#### Methodological Limitations
+- Time constraints on data collection
+- Potential seasonal variations not captured
+- Limited sample sizes in some areas
+- Possible observer bias in qualitative assessments
 
-3. Urban Decay Indicators:
-   - Higher prevalence of decay in Golborne
-   - Clear disparities in infrastructure quality
-   - Maintenance standards reflect economic divide
+#### Recommendations for Future Research
+1. Longitudinal study to track changes over time
+2. Expanded variables for quality of life assessment
+3. Deeper analysis of social mobility factors
+4. Investigation of policy interventions' effectiveness
 
-#### Social Inequality Patterns
-Social analysis reveals entrenched disparities:
+### Theoretical Implications
 
-1. Educational Access:
-   - 82.6% of schools near BHT are private vs 36.4% in Golborne
-   - Clear implications for social mobility
-   - Educational opportunity differences reflect broader inequalities
+The findings support several theoretical frameworks:
+- Bourdieu's Social Capital Theory: Evidence of resource concentration
+- Environmental Justice Theory: Clear environmental quality disparities
+- Urban Inequality Theories: Visible spatial manifestation of inequality
 
-2. Crime and Safety:
-   - Different patterns of crime prevention measures
-   - Contrasting security infrastructure
-   - Relationship between economic status and safety measures
+### Policy Implications
 
-3. Social Infrastructure:
-   - Clear differences in community facilities
-   - Varying access to social services
-   - Distinct patterns of social amenities
+Recommendations for addressing disparities:
+1. Targeted infrastructure investment in Golborne
+2. Enhanced social service provision
+3. Economic development initiatives
+4. Environmental quality improvement programs
 
-### Overall Investigation Impact
+### Final Conclusion
 
-#### Broader Implications
-1. Urban Planning and Policy:
-   - Need for targeted interventions in deprived areas
-   - Importance of balanced development
-   - Role of local authorities in addressing inequalities
-
-2. Social Mobility:
-   - Educational access barriers
-   - Intergenerational poverty cycles
-   - Impact on life opportunities
-
-3. Community Development:
-   - Need for improved social infrastructure
-   - Importance of community cohesion
-   - Role of local services
-
-#### Future Research Recommendations
-1. Longitudinal Studies:
-   - Track changes over time
-   - Monitor intervention effects
-   - Assess policy impacts
-
-2. Expanded Scope:
-   - Include additional wards
-   - Consider more variables
-   - Deeper demographic analysis
-
-### Methodological Evaluation
-
-#### Investigation Strengths
-1. Comprehensive Data Collection:
-   - Multiple methods employed
-   - Both quantitative and qualitative approaches
-   - Systematic sampling techniques
-
-2. Robust Analysis:
-   - Triangulation of data sources
-   - Clear theoretical framework
-   - Systematic hypothesis testing
-
-3. Ethical Considerations:
-   - Privacy and consent maintained
-   - Community sensitivity observed
-   - Environmental impact minimized
-
-#### Limitations and Areas for Improvement
-1. Data Collection Constraints:
-   - Time limitations affected coverage
-   - Weather conditions impacted observations
-   - Access restrictions in some areas
-
-2. Methodological Challenges:
-   - Subjective elements in environmental assessment
-   - Limited sample sizes in some surveys
-   - Potential seasonal variations not captured
-
-3. Analysis Limitations:
-   - Some data gaps in certain areas
-   - Potential bias in observational data
-   - Limited longitudinal perspective
-
-#### Evaluation of Methods Table
-
-| Method title | Why valid method | Drawbacks | How reliable results and conclusion | Any changes? potential modifications to increase validity |
-|---|---|---|---|---|
-| Annotated photos | This is a valid method as by using this qualitative method, the data is visually engaging and simple, with my annotations ensuring that key indicators of inequality are highlighted and clear. | Daily external environmental factors could alter perceptions. Weather conditions and seasonal timing (autumn) may contribute to negative perceptions due to leaf litter and puddles. Limited sample size due to systematic sampling may have missed relevant features. | Reliability demonstrated through direct control of photo selection and recent, up-to-date documentation. Increased validity of analysis and conclusions through contemporary evidence. | Could have captured photos at similar weather conditions to reduce external factor bias. |
-| Index of decay survey | Valid approach to exploring inequality through assessment of property decay and damage. Scoring system and multiple indicators enabled comprehensive comparison. | Subjective scoring system treats all indicators equally (e.g., "peeling paint" vs "boarded up windows"). External conditions affect visibility of indicators. | Reasonable reliability despite subjectivity due to same-day data collection for both wards, minimizing external influences. | Could enlist multiple observers for more comprehensive results. |
-| EQI | Valid method with tailored indicators and comparable rating system. | Environmental quality rankings are subjective and dependent on collection time, investigator mood, and weather conditions. | Reliable despite subjectivity due to same-day collection. Minimized external influence impact. | Could involve multiple observers and repeat surveys across different seasons/times. |
-| Crime survey | Enables understanding of both perceived and actual crime through statistical and experiential data. | Potential underreporting and demographic variations in crime reporting. | Reliable but could be improved through comparison with official statistics and anonymous reporting. | Could segregate survey by demographics and implement digital reporting. |
-| High street services survey | Systematic approach to understanding service distribution and economic infrastructure. | Doesn't capture service quality or accessibility factors. | Reliable for service mapping but could benefit from qualitative community feedback. | Could integrate accessibility assessment and community perspectives. |
-| Local Business Retail Price Index survey | Quantitative method reduces subjectivity in understanding economic disparities. | Temporal price fluctuations not accounted for; limited product representation. | Could improve reliability through standardized product selection and broader economic context. | Could expand product range and incorporate qualitative economic experience data. |
-
-[Continue with the remaining conclusion content...]
+The investigation conclusively demonstrates significant quality of life variations between the two wards, with Brompton & Hans Town showing consistently superior conditions across environmental, social, and economic dimensions. These findings highlight the need for targeted interventions to address these disparities and promote more equitable urban development.
 
 ## VI. End Matter
 
@@ -549,3 +562,35 @@ Wilson, W.J. (1987). The Truly Disadvantaged: The Inner City, the Underclass, an
    - Safety hazards
 
 [Continue with remaining photographic analysis...]
+
+### Social Analysis
+
+##### Education and Social Mobility
+The stark disparity in educational access between the two wards perpetuates social inequality. While Brompton & Hans Town has predominantly private schools (82.6%), Golborne's educational landscape is markedly different with only 36.4% private institutions. This disparity in educational access has significant implications for social mobility and future opportunities.
+
+![School proximity map 1](/images/nQO_Image_68.png)
+
+*Figure 67: Map showing proximity of Brompton & Hans Town ward to schools within a ½ mile radius (Google, 2024) - not to scale*
+
+![School proximity map 2](/images/EdM_Image_68.png)
+
+*Figure 68: Map showing proximity of Golborne Road ward to schools within a ½ mile radius (Google, 2024) - not to scale*
+
+##### Child Poverty and Deprivation
+The Distribution of Children Living in Out-of-work Benefit Claimant Households data reveals stark contrasts:
+- Golborne: Nearly 400 children (third highest among all wards)
+- Brompton & Hans Town: Less than 40 children (fourth lowest)
+This tenfold difference indicates not just economic disparity but profound social inequality affecting future generations.
+
+![Child poverty distribution](/images/nxQ_Image_70.png)
+
+*Figure 70: Child poverty distribution analysis*
+
+Research by the Nuffield Foundation suggests a correlation between childhood poverty and increased likelihood of serious offenses and frequent criminal convictions in adulthood. This may partially explain higher crime rates in Golborne, suggesting a cyclical relationship between deprivation and social outcomes.
+
+##### Crime and Security
+The distribution of security measures reveals another dimension of inequality:
+- Brompton & Hans Town: Higher prevalence of private security systems
+- Golborne: Greater reliance on public infrastructure (council-installed cameras)
+
+This disparity demonstrates how economic capital enables active crime prevention through personal investment, further entrenching spatial inequalities.
