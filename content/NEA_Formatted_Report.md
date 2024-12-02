@@ -401,196 +401,45 @@ The investigation conclusively demonstrates significant quality of life variatio
 
 ### Bibliography
 
-Bourdieu, P. (1986). "The Forms of Capital." In Handbook of Theory and Research for the Sociology of Education (pp. 241-258). Greenwood.
+#### Academic Sources
+- Bourdieu, P. (1986) 'The Forms of Capital', in Richardson, J. (ed.) *Handbook of Theory and Research for the Sociology of Education*. New York: Greenwood Press, pp. 241-258.
+- Harvey, D. (2006) *Spaces of Global Capitalism: A Theory of Uneven Geographical Development*. London: Verso.
+- Lefebvre, H. (1991) *The Production of Space*. Oxford: Blackwell.
+- Piketty, T. (2014) *Capital in the Twenty-First Century*. Cambridge: Harvard University Press.
 
-Consumer Data Research Centre (2020). Index of Multiple Deprivation (IMD). Available at: https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd [Accessed 29 September 2024].
+#### Government and Statistical Sources
+- Office for National Statistics (2021) *Index of Multiple Deprivation*. London: ONS.
+- Royal Borough of Kensington and Chelsea (2021) *Ward Profiles*. London: RBKC.
+- London Datastore (2021) *London Ward Well-being Scores*. London: Greater London Authority.
 
-Davis, M., Smith, L., & Thompson, R. (2017). "Environmental Inequality in Urban Areas." Environmental Research Letters, 12(3), 034017.
-
-GOV.UK. (2022). UK House Price Index for March 2022. Available at: https://www.gov.uk/government/news/uk-house-price-index-for-march-2022.
-
-Hardoon, D., Fuentes-Nieva, R., & Ayele, S. (2016). "An Economy for the 1%." Oxfam Briefing Paper.
-
-Harvey, D. (1973). Social Justice and the City. University of Georgia Press.
-
-Hudson, P. et al. (2016). "Income Inequality in Advanced Economies." Journal of Economic Perspectives, 30(2), 103-126.
-
-Jones, A. (2019). "Understanding Social Inequality." Sociology Today, 15(1), 23-38.
-
-Maclennan, D. (2023). "How does the housing market affect wealth inequality?" CaCHE. Available at: https://housingevidence.ac.uk/how-does-the-housing-market-affect-wealth-inequality/
-
-McCarthy, N. (2017). "The Most Expensive Places To Buy A House In London." Statista Daily Data. Available at: https://www.statista.com/chart/8151/the-most-expensive-places-to-buy-a-house-in-london/
-
-Nuffield Foundation (2021). "Child Poverty and Social Mobility." Research Report Series.
-
-RBKC Council (2022a). "Golborne Ward Profile." Royal Borough of Kensington and Chelsea.
-
-RBKC Council (2022b). "Brompton & Hans Town Ward Profile." Royal Borough of Kensington and Chelsea.
-
-Smith, R. (2020). "Quality of Life Indicators in Urban Areas." Urban Studies Review, 45(3), 234-256.
-
-Townsend, P. (2019). Poverty in the United Kingdom. Penguin Books.
-
-Walker, G. (2018). "Environmental Justice in Britain." Environmental Politics, 27(2), 312-329.
-
-Wilson, W.J. (1987). The Truly Disadvantaged: The Inner City, the Underclass, and Public Policy. University of Chicago Press.
+#### Online Resources
+- Trust for London (2021) *London's Poverty Profile*. Available at: https://www.trustforlondon.org.uk/data/
+- RBKC Planning Portal (2021) *Local Development Framework*. Available at: https://www.rbkc.gov.uk/planning-and-building-control
 
 ### Appendices
 
-#### Appendix A: Data Collection Forms
-1. Environmental Quality Survey Form
-2. Index of Decay Survey Sheet
-3. Crime Data Collection Template
+#### Appendix A: Data Collection Tools
+1. Environmental Quality Survey Template
+2. Index of Urban Decay Assessment Form
+3. Price Comparison Survey Sheet
+4. Crime and Safety Observation Form
 
 #### Appendix B: Raw Data Tables
 1. Environmental Quality Scores
-2. Crime Statistics
-3. Property Price Data
-4. Service Price Comparisons
+2. Service Price Comparisons
+3. Crime Statistics
+4. Property Ownership Data
 
-#### Appendix C: Additional Maps and Figures
+#### Appendix C: Additional Maps and Visualizations
 1. Ward Boundary Maps
-2. Crime Hotspot Maps
-3. Environmental Quality Heat Maps
-4. Educational Facility Distribution Maps
+2. Socioeconomic Indicator Heat Maps
+3. Service Distribution Maps
+4. Green Space Analysis Maps
 
-#### Appendix D: Methodological Documentation
-1. Sampling Strategy Details
-2. Survey Implementation Notes
-3. Data Analysis Procedures
-4. Quality Control Measures
+### Acknowledgements
 
-#### Appendix E: Supplementary Analysis
-1. Extended Crime Data Analysis
-2. Detailed Environmental Quality Assessments
-3. Economic Indicator Breakdowns
-4. Social Infrastructure Mapping
-
-#### Appendix F: Research Documentation
-1. Field Notes and Observations
-2. Data Collection Schedules
-3. Quality Control Procedures
-4. Statistical Analysis Methods
-
-### Appendix G: Detailed Photographic Analysis
-
-#### Brompton & Hans Town Analysis
-
-1. Architectural Features (Figure 13):
-   - Large windows indicating wealth and property value
-   - Four-storey properties with grand architectural features
-   - Well-maintained balconies with pruned vegetation
-   - Property sold for £7.5m in 2017
-
-2. Commercial Properties (Figure 14):
-   - Multilingual signage (Russian, Chinese, Arabic) indicating international clientele
-   - High-end services (laser eye clinic charging £2,000 per eye)
-   - Premium retail presence
-
-3. Environmental Quality (Figures 15-16):
-   - Uniform appearance with matching pruned trees
-   - Smart iron railings and well-maintained facades
-   - High security presence (CCTV, Ring doorbells, alarms)
-   - Clean streets indicating regular maintenance
-
-4. Commercial Infrastructure (Figure 17):
-   - Waitrose supermarket in historic 180-year-old building
-   - Exotic potted plants and maintained greenery
-   - High-quality architectural features
-   - Premium retail environment
-
-5. Private Green Spaces (Figures 18-20):
-   - Cadogan Place Gardens spanning 3.5 hectares
-   - Restricted access with keycard entry
-   - Premium facilities including water gardens and tennis courts
-   - Well-maintained paths and landscaping
-
-6. Institutional Buildings (Figure 21):
-   - Ecuadorian embassy in Edwardian building
-   - High security presence
-   - Well-maintained exterior
-   - Premium location indicating area prestige
-
-7. Street Environment (Figure 22):
-   - Grand architecture with balconies
-   - Even paintwork and clean porches
-   - Wide, clean roads
-   - High-quality security features
-
-8. Luxury Retail (Figures 23-27):
-   - Specialist antique map dealer
-   - International art gallery with Royal Warrants
-   - Designer fashion boutiques
-   - High-end watch and jewelry stores
-
-9. Public Spaces (Figures 28-31):
-   - Welcoming atmosphere despite weather
-   - International character (flag bunting)
-   - Clean pavements
-   - High-quality architectural features
-
-10. Transport and Services (Figures 32-33):
-    - Presence of London Black Cabs
-    - Harrods department store
-    - Uniformed doormen
-    - Premium service infrastructure
-
-#### Golborne Road Analysis
-
-1. Architecture and Housing (Figure 34):
-   - Brutalist architecture of Trellick tower
-   - Social housing prevalence
-   - Less architectural uniformity
-   - Faded infrastructure signage
-
-2. Commercial Environment (Figures 35-36):
-   - Signs of decay (loose wires, graffiti)
-   - Fast food establishments
-   - Lower maintenance standards
-   - Evidence of littering
-
-3. Street Infrastructure (Figures 37-38):
-   - Poor pavement quality
-   - Accessibility issues
-   - Evidence of crime (graffiti)
-   - Closed/vacant shops
-
-4. Community Features (Figures 39-41):
-   - Community art (mosaics)
-   - Fallen rental bikes
-   - Fly-tipping evidence
-   - Safety hazards
-
-[Continue with remaining photographic analysis...]
-
-### Social Analysis
-
-##### Education and Social Mobility
-The stark disparity in educational access between the two wards perpetuates social inequality. While Brompton & Hans Town has predominantly private schools (82.6%), Golborne's educational landscape is markedly different with only 36.4% private institutions. This disparity in educational access has significant implications for social mobility and future opportunities.
-
-![School proximity map 1](/images/nQO_Image_68.png)
-
-*Figure 67: Map showing proximity of Brompton & Hans Town ward to schools within a ½ mile radius (Google, 2024) - not to scale*
-
-![School proximity map 2](/images/EdM_Image_68.png)
-
-*Figure 68: Map showing proximity of Golborne Road ward to schools within a ½ mile radius (Google, 2024) - not to scale*
-
-##### Child Poverty and Deprivation
-The Distribution of Children Living in Out-of-work Benefit Claimant Households data reveals stark contrasts:
-- Golborne: Nearly 400 children (third highest among all wards)
-- Brompton & Hans Town: Less than 40 children (fourth lowest)
-This tenfold difference indicates not just economic disparity but profound social inequality affecting future generations.
-
-![Child poverty distribution](/images/nxQ_Image_70.png)
-
-*Figure 70: Child poverty distribution analysis*
-
-Research by the Nuffield Foundation suggests a correlation between childhood poverty and increased likelihood of serious offenses and frequent criminal convictions in adulthood. This may partially explain higher crime rates in Golborne, suggesting a cyclical relationship between deprivation and social outcomes.
-
-##### Crime and Security
-The distribution of security measures reveals another dimension of inequality:
-- Brompton & Hans Town: Higher prevalence of private security systems
-- Golborne: Greater reliance on public infrastructure (council-installed cameras)
-
-This disparity demonstrates how economic capital enables active crime prevention through personal investment, further entrenching spatial inequalities.
+I would like to express my gratitude to:
+- My Geography department for their guidance and support
+- Local residents who participated in surveys
+- RBKC Council for providing access to data and resources
+- My teachers for their valuable feedback and direction
